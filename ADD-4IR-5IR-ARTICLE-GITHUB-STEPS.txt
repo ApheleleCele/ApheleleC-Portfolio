@@ -1,0 +1,19 @@
+ADD THE NEW 4IR-5IR ARTICLE TO GITHUB PAGES
+
+1. Open your GitHub repository: ApheleleCele/Web-Social-Space-Aphelele.
+2. Make sure you are on the main branch.
+3. Open the images folder. Click Add file > Upload files. Upload these four files from this package:
+   ai-youth-job-search.jpeg
+   youth-unemployment-2026.jpeg
+   low-code-self-employment.jpeg
+   sa-rural-urban-internet.jpeg
+4. Commit the image upload.
+5. Return to the repository root. Click Add file > Create new file.
+6. Name the file exactly: 4IR-5IR-Article.html
+7. Open 4IR-5IR-Article-COMPLETE-CODE.txt from this package, copy ALL the code, and paste it into GitHub.
+8. Click Commit changes.
+9. IMPORTANT: To show 4IR-5IR Article in the navigation on every page, replace your existing HTML files with the versions supplied in this ZIP. They already include the new navigation link. At minimum update index.html, portfolio.html, interests.html, contact.html, it-trends-2026-synthesis.html, it-trends-risk-analysis.html, Blog 4IR-5IR.html, and 4IR-5IR-Evolution.html.
+10. Also replace css/style.css with the supplied version so the wider navigation fits correctly on desktop.
+11. Wait for GitHub Pages to redeploy, then refresh your live site and select 4IR-5IR Article from the top navigation.
+
+The new page is public: it uses <meta name="robots" content="index, follow">.

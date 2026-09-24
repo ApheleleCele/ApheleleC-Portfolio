@@ -1,0 +1,10 @@
+PUBLIC NAVIGATION UPDATE
+
+All four academic/research pages are now direct top-level navigation items on every page:
+- Trends 2026
+- Risk Analysis
+- 4IR→5IR
+- SA Evolution
+
+They appear alongside About, Portfolio, Interests and Contact.
+The Research homepage cards remain as an additional way to discover the work, but are no longer required for navigation.
